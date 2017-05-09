@@ -1,0 +1,22 @@
+{
+  "name": "chargarangular",
+  "version": "1.0.0",
+  "description": "week5mondayhw",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharGar/chargarangular.git"
+  },
+  "author": "chargar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharGar/chargarangular/issues"
+  },
+  "homepage": "https://github.com/CharGar/chargarangular#readme",
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
